@@ -105,5 +105,5 @@ dist
 
 # for examples
 file.txt
-flle-sync.txt
+file-sync.txt
 file-promise.txt
